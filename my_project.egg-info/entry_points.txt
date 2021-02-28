@@ -1,0 +1,3 @@
+[console_scripts]
+timeout = my_project.__main__:main
+
