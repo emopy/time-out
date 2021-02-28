@@ -24,5 +24,8 @@ A lot about python.
 ## What's next for Time Out!
 Hopefully? More alert messages, and a GUI or terminal commands to control settings.
 
+## Watch our demo here!
+https://www.youtube.com/watch?v=guqdkDw2xfc&feature=emb_title&ab_channel=ky
+
 ## Contributing
 Nola Watson & Kyla Ramos for HackTCNJ 2021
